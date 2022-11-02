@@ -80,6 +80,7 @@ public class Productes
         //driver.quit();
 
         // write a line for print out into the console area
+        //new
 
         System.out.println("Product Item No:1\t" + a1);
         System.out.println("Product Item No:2\t" + a2);
